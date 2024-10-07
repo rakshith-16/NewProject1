@@ -1,3 +1,4 @@
 this is a second feature branch
-this will be my feature branc changes
+this is my min branch changes
+this is 3rd changes
 
